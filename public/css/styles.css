@@ -1,0 +1,24 @@
+* {
+  font-family: "Lora", serif;
+}
+
+/* Start title */
+
+.title {
+  height: 70vh;
+}
+
+/* End title */
+
+/* Start about */
+
+.about a {
+  text-decoration: none;
+  color: black;
+}
+
+.about a:hover {
+  color: #007bff;
+}
+
+/* End about */
